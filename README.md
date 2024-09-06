@@ -1,7 +1,9 @@
 #Text Classification Analysis
+
 This project focuses on implementing a text classification pipeline using Python and Scikit-learn. It aims to classify text documents into predefined categories by training a machine learning model on labeled datasets. The project involves various stages of data preprocessing, model selection, and evaluation to derive meaningful classification outcomes.
 
 ##Objectives
+
 Build a text classification model to categorize documents into different classes.
 Implement preprocessing techniques like stop-word removal to clean the text data.
 Split the data into training and testing sets to evaluate model performance.
