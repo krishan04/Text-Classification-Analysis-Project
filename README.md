@@ -46,5 +46,5 @@ This project focuses on implementing a text classification pipeline using Python
 
 ## Conclusions and Recommendations
 
-- **Refinements**: Further refinement of preprocessing steps, model choice, and hyperparameter tuning is recommended for improving model accuracy.
+- **Refinements**: Further refinement of preprocessing steps, model choice, and hyperparameter tuning is recommended for improving model accuracy. 
 - **Future steps**: Experimenting with different classification algorithms or using more advanced methods like neural networks could yield better results.
